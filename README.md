@@ -1,1 +1,1 @@
-# mu_zeta
+# mu-zeta
